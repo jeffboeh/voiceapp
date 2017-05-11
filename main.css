@@ -1,0 +1,23 @@
+ html,
+    body {
+        height: 100%;
+    }
+
+    body {
+    	padding-top: 65px;
+    }
+
+    .row1.container {
+    	text-align: center;
+    	padding-top: 50px;
+    }
+
+     .row2.container {
+    	text-align: center;
+    	padding-top: 30px;
+    }
+
+     .row3.container {
+    	text-align: center;
+    	padding-top: 40px;
+    }
