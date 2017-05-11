@@ -21,3 +21,20 @@
     	text-align: center;
     	padding-top: 40px;
     }
+
+    .artist {
+        margin-bottom: 20px;
+    }
+
+    .profilepic {
+        text-align: center;
+    }
+
+    .spotify.container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.socialIcons {
+    margin-top: 10px;
+}
