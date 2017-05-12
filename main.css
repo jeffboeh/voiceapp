@@ -38,3 +38,14 @@
 .socialIcons {
     margin-top: 10px;
 }
+
+
+ .autocomplete-suggestions {
+    background: white;
+    color: black;
+    border-radius: 5px;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+
