@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Save The Voice - 2016 Artist</title>
+    <title>Save The Voice - 2015 Artist</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -44,8 +44,8 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.html">2017</a></li>
-            <li class="active"><a href="2016artist.html">2016</a></li>
-            <li><a href="2015artist.html">2015</a></li>
+            <li><a href="2016artist.html">2016</a></li>
+            <liclass="active"><a href="2015artist.html">2015</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">2017 Top 8 <span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -82,44 +82,44 @@
 
     <div class="row1 container">
       <div class="row"> 
-      <div class="col-lg-4 artist" id="artist1"><a href="brendanfletcher.html"><img src="http://cdn2.business2community.com/wp-content/uploads/2016/09/2016_TheVoice_S11_BrendanFletcher_BIO_Headshots_1455x1455_CC.jpg" class="img-circle" alt="Brenden Fletcher" width="200px" height="200px"> </a>
-      <p>Brendan Fletcher - Team Adam</p>
-                <a class="btn btn-primary" href="brendenfletcher.html" role="button">View Artist »</a>
+      <div class="col-lg-4 artist" id="artist1"><a href="kimberlynichole.html"><img src="http://ultimatechart.com/system/artists/Kimberly_Nichole.jpg" class="img-circle" alt="Kimberly Nichole" width="200px" height="200px"> </a>
+      <p>Kimberly Nichole - Team Christina</p>
+                <a class="btn btn-primary" href="kimberlynichole.html" role="button">View Artist »</a>
                 </div>
-      <div class="col-lg-4 artist" id="artist2"><a href="joshgallagher.html"><img src="http://idolchatteryd.com/wp-content/uploads/2016/10/Josh-Gallagher-01-425.jpg" class="img-circle" alt="Josh Gallagher" width="200px" height="200px"> </a>
- <p>Josh Gallagher – Team Adam</p>
-                <a class="btn btn-primary" href="joshgallagher.html" role="button">View Artist »</a>
+      <div class="col-lg-4 artist" id="artist2"><a href="sawyerfredericks.html"<img src="https://s-media-cache-ak0.pinimg.com/originals/20/57/6c/20576c13a19e2023cca5d8e9a6162fc1.jpg" class="img-circle" alt="Sawyer Fredericks" width="200px" height="200px"> </a>
+ <p>Sawyer Fredericks - Team Pharrell</p>
+                <a class="btn btn-primary" href="sawyerfredericks.html" role="button">View Artist »</a>
        </div>
-      <div class="col-lg-4 artist" id="artist3"><a href="billygilman.html"><img src="http://www.villages-news.com/wp-content/uploads/2017/03/Billy-Giilman-made-a-comeback-last-year-on-The-Voice.jpg" class="img-circle" alt="Billy Gilman" width="200px" height="200px">  </a>
-      <p>Billy Gilman – Team Adam</p>
-                <a class="btn btn-primary" href="billygilman.html" role="button">View Artist »</a> </div>
+      <div class="col-lg-4 artist" id="artist3"><a href="meghanlinsey.html"><img src="http://www.famousbirthdays.com/headshots/meghan-linsey-1.jpg" class="img-circle" alt="Meghan Linsey" width="200px" height="200px">  </a>
+      <p>Meghan Linsey - Team Blake</p>
+                <a class="btn btn-primary" href="meghanlinsey.html" role="button">View Artist »</a> </div>
       </div>
     </div>
      <div class="row2 container">
       <div class="row"> 
-      <div class="col-lg-4 artist" id="artist1"><a href="alicaldwell.html"><img src="http://vignette1.wikia.nocookie.net/thevoice/images/0/0f/Ali-Caldwell.jpg/revision/latest?cb=20161214210921" class="img-circle" alt="Ali Caldwell" width="200px" height="200px"> </a>
-      <p>Ali Caldwell – Team Miley</p>
-                <a class="btn btn-primary" href="alicaldwell.html" role="button">View Artist »</a>
+      <div class="col-lg-4 artist" id="artist1"><a href="alicaldwell.html"><img src="https://heavyeditorial.files.wordpress.com/2015/04/joshua-davis-3.jpg?quality=65&strip=all&w=780" class="img-circle" alt="Joshua Davis" width="200px" height="200px"> </a>
+      <p>Joshua Davis - Team Adam</p>
+                <a class="btn btn-primary" href="joshuadavis.html" role="button">View Artist »</a>
                 </div>
-      <div class="col-lg-4 artist" id="artist2"><a href="aarongibson.html"><img src="http://idolchatteryd.com/wp-content/uploads/2016/10/Aaron-Gibson-01-450.jpg" class="img-circle" alt="Aaron Gibson" width="200px" height="200px"> </a>
- <p>Aaron Gibson – Team Miley</p>
-                <a class="btn btn-primary" href="aarongibson.html" role="button">View Artist »</a>
+      <div class="col-lg-4 artist" id="artist2"><a href="indiacarney.html"><img src="http://www.idolchatteryd.com/wp-content/uploads/2015/03/India-Carney-01-425.jpg" class="img-circle" alt="India Carney" width="200px" height="200px"> </a>
+ <p>India Carney - Team Christina</p>
+                <a class="btn btn-primary" href="indiacarney.html" role="button">View Artist »</a>
        </div>
-      <div class="col-lg-4 artist" id="artist3"><a href="christiancuevas.html"><img src="https://www.earnthenecklace.com/wp-content/uploads/2016/11/Christian-Cuevas-1.jpg" class="img-circle" alt="Christian Cuevas" width="200px" height="200px">  </a>
-      <p>Christian Cuevas – Team Alicia</p>
-                <a class="btn btn-primary" href="christiancuevas.html" role="button">View Artist »</a> </div>
+      <div class="col-lg-4 artist" id="artist3"><a href="hannahkirby.html"><img src="http://www.idolchatteryd.com/wp-content/uploads/2015/03/Hannah-Kirby-425.jpg" class="img-circle" alt="Hannah Kirby" width="200px" height="200px">  </a>
+      <p>Hannah Kirby - Team Blake</p>
+                <a class="btn btn-primary" href="hannahkirby.html" role="button">View Artist »</a> </div>
       </div>
     </div>
 
 <div class="row3 container">
       <div class="row"> 
-      <div class="col-lg-6 artist" id="artist7"><a href="sundancehead.html"><img src="http://cdn.business2community.com/wp-content/uploads/2016/09/2016_TheVoice_S11_SundanceHead_BIO_Headshots_1455x1455_CC.jpg" class="img-circle" alt="Sundance Head" width="200px" height="200px"> </a>
-      <p>Sundance Head - Team Blake</p>
-                <a class="btn btn-primary" href="sundancehead.html" role="button">View Artist »</a>
+      <div class="col-lg-6 artist" id="artist7"><a href="korynhawthorne.html"><img src="https://www.gannett-cdn.com/-mm-/540eb93bff2636da4d342c1dcdbfe6a00daca74b/c=0-0-2249-2999&r=537&c=0-0-534-712/local/-/media/2015/05/04/LafayetteLA/B9317227108Z.1_20150504174952_000_GHEAMMAHV.1-0.jpg" class="img-circle" alt="Koryn Hawthorne" width="200px" height="200px"> </a>
+      <p>Koryn Hawthorne - Team Pharrell</p>
+                <a class="btn btn-primary" href="korynhawthorne.html" role="button">View Artist »</a>
                 </div>
-      <div class="col-lg-6 artist" id="artist8"><a href="wemcdonald.html"><img src="http://cdn2.business2community.com/wp-content/uploads/2016/09/2016_TheVoice_S11_WeMcDonald_BIO_Headshots_1455x1455_CC.jpg" class="img-circle" alt="We McDonald" width="200px" height="200px"></a>
- <p>We McDonald – Team Alicia</p>
-                <a class="btn btn-primary" href="wemcdonald.html" role="button">View Artist »</a>
+      <div class="col-lg-6 artist" id="artist8"><a href="coreykentwhite.html"><img src="http://cdn2.business2community.com/wp-content/uploads/2016/09/2016_TheVoice_S11_WeMcDonald_BIO_Headshots_1455x1455_CC.jpg" class="img-circle" alt="Corey Kent White" width="200px" height="200px"></a>
+ <p>Corey Kent White - Team Blake</p>
+                <a class="btn btn-primary" href="coreykentwhite.html" role="button">View Artist »</a>
        </div>
       </div>
     </div>
