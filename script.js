@@ -1,12 +1,13 @@
 var names = [
-    { value: 'Jesse Larson', data: 'jesselarson' },
+
+    { value: 'Aliyah Moulden', data: 'aliyahmoulden' },
     { value: 'Brennley Brown', data: 'brennleybrown' },
      { value: 'Chris Blue', data: 'chrisblue' },
+     { value: 'Hunter Plake', data: 'hunterplake' },
+    { value: 'Jesse Larson', data: 'jesselarson' },
+    { value: 'Lauren Duski', data: 'laurenduski' },
     { value: 'Tsoul', data: 'tsoul' },
     { value: 'Vanessa Ferguson', data: 'vanessaferguson.html' },
-    { value: 'Aliyah Moulden', data: 'aliyahmoulden' },
-     { value: 'Hunter Plake', data: 'hunterplake' },
-    { value: 'Lauren Duski', data: 'laurenduski' },
 ];
 
 $('#autocomplete').autocomplete({

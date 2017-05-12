@@ -35,6 +35,11 @@
     margin-top: 40px;
 }
 
+ .youtube.container {
+    text-align: center;
+    margin-top: 40px;
+}
+
 .socialIcons {
     margin-top: 10px;
 }
@@ -45,7 +50,12 @@
     color: black;
     border-radius: 5px;
     padding-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     cursor: pointer;
+
 }
+
+
 
 
