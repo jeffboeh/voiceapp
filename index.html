@@ -13,6 +13,10 @@
 
     <link href="main.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+
+
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -41,8 +45,8 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">2017 Top 8 <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="jesse.html">Jesse Larson</a></li>
-                <li><a href="#">Brennley Brown</a></li>
+                <li><a href="jesselarson.html">Jesse Larson</a></li>
+                <li><a href="brennleybrown.html">Brennley Brown</a></li>
                 <li><a href="#">Chris Blue</a></li>
                 <li><a href="#">Vanessa Ferguson</a></li>
                 <li><a href="#">Tsoul</a></li>
@@ -57,6 +61,11 @@
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
+          <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" name="names" id="autocomplete" placeholder="Search for artist">
+        </div>
+      </form>
             <li><a href="./">Sign In</a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -65,12 +74,12 @@
 
     <div class="row1 container">
       <div class="row"> 
-      <div class="col-lg-4 artist" id="artist1"><a href="jesse.html" target="_blank"><img src="https://www.nbc.com/sites/nbcunbc/files/files/styles/750x750/public/images/2017/3/07/2017-TheVoice-S12-JesseLarson-BIO-Site-Null-1455x1455-KO_0.jpg?itok=k6h4bojE" class="img-circle" alt="Jesse Larson" width="200px" height="200px"> </a>
+      <div class="col-lg-4 artist" id="artist1"><a href="jesselarson.html"><img src="https://www.nbc.com/sites/nbcunbc/files/files/styles/750x750/public/images/2017/3/07/2017-TheVoice-S12-JesseLarson-BIO-Site-Null-1455x1455-KO_0.jpg?itok=k6h4bojE" class="img-circle" alt="Jesse Larson" width="200px" height="200px"> </a>
       <p>Vote for Jesse now!</p>
                 <a class="btn btn-primary" href="http://twitter.com/home?status=I%20Love%20You%20%40JLarsonguitar%20%23VOICESAVEJESSE"
                 target="_blank" role="button">Vote Now»</a>
                 </div>
-      <div class="col-lg-4 artist" id="artist2"><img src="https://pbs.twimg.com/profile_images/848197899313860608/QFmpFl_V.jpg" class="img-circle" alt="Brennley Brown" width="200px" height="200px">
+      <div class="col-lg-4 artist" id="artist2"><a href="brennleybrown.html"><img src="https://pbs.twimg.com/profile_images/848197899313860608/QFmpFl_V.jpg" class="img-circle" alt="Brennley Brown" width="200px" height="200px"> </a>
  <p>Vote for Brennley now!</p>
                 <a class="btn btn-primary" href="http://twitter.com/home?status=I%20Love%20You%20%40brennleybrown%20%23VOICESAVEBRENNLEY" target="_blank" role="button">Vote Now»</a>
        </div>
@@ -86,7 +95,7 @@
                 <a class="btn btn-primary" href="http://twitter.com/home?status=I%20Love%20You%20%40hunterplake%20%23VOICESAVEHUNTER"
                 target="_blank" role="button">Vote Now»</a>
                 </div>
-      <div class="col-lg-4 artist" id="artist5"><img src="https://www.nbc.com/sites/nbcunbc/files/files/styles/750x750/public/images/2017/3/07/2017-TheVoice-S12-ChrisBlue-BIO-Site-Null-1455x1455-KO.jpg?itok=rejK5nyP" class="img-circle" alt="Chris Blue" width="200px" height="200px">
+      <div class="col-lg-4 artist" id="artist5"><a href="chrisblue.html"><img src="https://www.nbc.com/sites/nbcunbc/files/files/styles/750x750/public/images/2017/3/07/2017-TheVoice-S12-ChrisBlue-BIO-Site-Null-1455x1455-KO.jpg?itok=rejK5nyP" class="img-circle" alt="Chris Blue" width="200px" height="200px"> </a>
  <p>Vote for Chris now!</p>
                 <a class="btn btn-primary" href="http://twitter.com/home?status=I%20Love%20You%20%40chrisbluelive%20%23VOICESAVECHRIS"
                 target="_blank" role="button">Vote Now»</a>
@@ -116,6 +125,9 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/autocomplete.js"></script>
+    <script src="script.js"></script>
+    
     <script src="js/bootstrap.min.js"></script>
     <script src="https://use.fontawesome.com/357deb88d0.js"></script>
   </body>
